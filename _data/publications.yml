@@ -24,7 +24,7 @@ main:
   - title: "Cot3dref: Chain-of-thoughts data-efficient 3d visual grounding"
     authors: Eslam Abdelrahman, Mohamed Ayman, <strong>Mahmoud Ahmed</strong>, Habib Slim, Mohamed Elhoseiny
     conference_short: ICLR
-    conference: The Eleventh International Conference on Learning Representations <strong>(ICLR)</strong>, 2020.
+    conference: The Eleventh International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.
     pdf: https://arxiv.org/abs/2310.06214
     code: https://github.com/eslambakr/CoT3D_VG
     page: https://eslambakr.github.io/cot3dref.github.io/
