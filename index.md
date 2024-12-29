@@ -11,7 +11,7 @@ I am particularly interested in multimodal LLMs, compositional understanding, an
 
 ## News
 
-- **[Nov. 2024]** Our paper 3DCoMPaT200 is accepted to NeurIPS 2024.
+- **[Nov. 2024]** Our paper 3DCoMPaT200 is accepted to NeurIPS 2024 in the Datasets and Benchmarks track.
 - **[Sep. 2023]** Our paper about 3D CoT referal is accepted to ICLR 2023.
 - **[Apr. 2023]** Released our upgraded dataset 3DCoMPaT++.
 
